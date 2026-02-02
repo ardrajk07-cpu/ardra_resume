@@ -117,6 +117,8 @@ const siteConfig = {
     github: 'https://github.com/ardrajk07-cpu',
   },
 
+  research: [],
+  books: [],
   blogs: [],
 };
 
