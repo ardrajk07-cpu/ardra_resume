@@ -15,23 +15,23 @@ const siteConfig = {
       'Through internships, academic projects, and volunteering, I enjoy using data to understand markets, ' +
       'evaluate policies, and build more inclusive economic systems.',
     tagline: 'Exploring Economics through Data Science',
-    location: 'Bangalore, India,
+    location: 'Bangalore, India',
   },
 
   seo: {
-    title: 'Ardra Jyothikumar | Economics with Data Science'',
+    title: 'Ardra Jyothikumar | Economics with Data Science undergraduate',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
   animatedText: ['Economics Student',
 'Data Science Enthusiast',
 'Finance Learner',
-'Aspiring analyst],
+'Aspiring analyst'],
 
   navigation: [
     { name: 'Home', url: '/' },
     { name: 'Education', url: '/education' },
-    { name: 'Experience', url: '/experience' }
+    { name: 'Experience', url: '/experience' },
     { name: 'Resume', url: '/resume' },
     { name: 'Contact', url: '/contact' },
   ],
@@ -45,7 +45,8 @@ const siteConfig = {
       year: '2025-2029',
       image: getAsset('images/education/placeholder.png'),
       description: ['Relevant coursework: Statistics, Microeconomics, Macroeconomics, Advanced Excel, Programming Fundamentals',
-        'GPA: 3.56 (Semester 1)','],
+        'GPA: 3.56 (Semester 1)',
+        ]
     },
     {
       institution: 'GEMS Our Own English High School, Dubai',
@@ -53,7 +54,7 @@ const siteConfig = {
       year: '2023-2025',
       image: getAsset('images/education/placeholder.png'),
       description: [ 'Score: 90.3%',
-        'Subjects: Economics, Accountancy, Business Studies, Mathematics',],
+        'Subjects: Economics, Accountancy, Business Studies, Mathematics, English',],
     },
   ],
 
@@ -79,11 +80,12 @@ const siteConfig = {
     {
       title: 'Data Analyst',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'FLEKT by KIRIX (Remote)'
+      place: 'FLEKT by KIRIX (Remote)',
       time: '(Dec 2025 – Present)',
       desp: ['Cleaned and transformed raw datasets into structured formats for analysis',
         'Performed end-to-end data analysis to identify gaps and propose solutions',
-        'Developed dashboards and visualisations to communicate insights',],
+        'Developed dashboards and visualisations to communicate insights',
+     ],
     },
     {
       title: 'Marketing & Research Intern',
@@ -91,9 +93,10 @@ const siteConfig = {
       place: 'iX Launchpad',
       time: '2022',
       desp: ['Conducted SWOT analysis of businesses',
-        'Assisted with digital marketing research and social media analytics',],
+        'Assisted with digital marketing research and social media analytics',
+         ],
     },
-  ],
+ 
 
 {
       title: 'Volunteer',
