@@ -116,6 +116,8 @@ const siteConfig = {
     linkedin: 'https://www.linkedin.com/in/ardra-jyothikumar-210747306/',
     github: 'https://github.com/ardrajk07-cpu',
   },
+
+  blogs: [],
 };
 
 export default siteConfig;
